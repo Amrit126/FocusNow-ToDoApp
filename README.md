@@ -1,6 +1,6 @@
 # To-Do List Web App
 ## Name: FocusNow
-## Link: [Live Page]()
+## Link: [Live Page](https://focus-now-beta.vercel.app/)
 
 A simple and responsive To-Do List appliction built with **HTML, CSS, and JavaScript**.
 It allows users to add, mark as complete, and delete tasks with a clean and minimal UI.
@@ -29,7 +29,7 @@ It allows users to add, mark as complete, and delete tasks with a clean and mini
     git clone https://github.com/Amrit126/FocusNow-ToDoApp.git
 
 2. Open the project folder:
-    cd FocsNow-ToDoApp
+    cd FocusNow-ToDoApp
 
 3. Open index.html in your browser.
 
